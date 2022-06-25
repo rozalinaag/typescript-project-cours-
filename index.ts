@@ -26,3 +26,15 @@ const logTodo = (id: number, title:string, completed:boolean) =>{
     Is it finished? ${completed}
     `);
 };
+
+const today = new Date();
+today.getMonth();
+
+const person = {
+  age: 21
+};
+
+class Color{
+
+}
+const red = new Color();
