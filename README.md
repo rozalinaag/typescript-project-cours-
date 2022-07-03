@@ -10,3 +10,5 @@ const todo = response.data as Todo;
 
 In function we can notice type of parametr:
 (id: number, title:string, completed:boolean)
+
+# For maps: cd maps, parcel index.html
